@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    row-gap: 2rem;
+    background-color: aqua;
+}
+
+
+#header__btn{
+    width: 10rem;
+    background-color: red;
+    border-radius: 14px;
+}
+
+.move-btn {
+    display: block;
+}
